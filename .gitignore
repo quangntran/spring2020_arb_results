@@ -1,0 +1,9 @@
+*.wav
+virtualenv
+*.ipynb
+.nbgrader.log
+models
+*.pkl
+*.csv
+# Jupyter Notebook
+.ipynb_checkpoints
