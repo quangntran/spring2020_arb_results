@@ -1,6 +1,5 @@
 *.wav
 virtualenv
-*.ipynb
 .nbgrader.log
 models
 *.pkl
